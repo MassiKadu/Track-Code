@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="File di origine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="File di risorse">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="progettoTrackAndCode.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="inputGenerici\input.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="menu\menu.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="caricamento\caricamento.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="visua\visua.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="iscrizione\iscrizione.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="creaGara\creaGara.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="insRisultato\insRisultato.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="contaGare\contaGare.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="contaPartecipanti\contaPartecipanti.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="sessoDonna\sessoDonna.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="sessoUomo\sessoUomo.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="MassimoMinimo\massimoMinimo.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="esistenzaGara\esistenzaGara.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="cercaMatricola\cercaMatricola.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="visuaScore\visuaScore.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="log\log.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ordinamentoGenerale\ordinamento.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inputGenerici\input.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="menu\menu.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="caricamento\caricamento.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="visua\visua.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="iscrizione\iscrizione.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="creaGara\creaGara.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="insRisultato\insRisultato.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="contaGare\contaGare.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="contaPartecipanti\contaPartecipanti.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="sessoDonna\sessoDonna.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="sessoUomo\sessoUomo.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="MassimoMinimo\massimoMinimo.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="esistenzaGara\esistenzaGara.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="cercaMatricola\cercaMatricola.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="visuaScore\visuaScore.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="log\log.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ordinamentoGenerale\ordinamento.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

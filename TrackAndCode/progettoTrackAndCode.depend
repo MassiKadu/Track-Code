@@ -1,0 +1,295 @@
+# depslib dependency file v1.0
+1621027239 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\caricamento\caricamento.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1621020412 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\cercamatricola\cercamatricola.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621004362 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\inputgenerici\input.h
+	<iostream>
+	<string>
+
+1621017597 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\contagare\contagare.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621017597 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\contapartecipanti\contapartecipanti.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621017597 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\creagara\creagara.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621019834 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\esistenzagara\esistenzagara.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621012038 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\inputgenerici\input.cpp
+	<iostream>
+	<string>
+
+1621017597 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\insrisultato\insrisultato.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621017597 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\iscrizione\iscrizione.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621025368 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\log\log.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1621017754 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\massimominimo\massimominimo.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621008261 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\menu\menu.cpp
+	<iostream>
+	<windows.h>
+	"../inputGenerici/input.h"
+
+1621030858 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\ordinamentogenerale\ordinamento.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	<chrono>
+	"../inputGenerici/input.h"
+
+1621032249 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\progettotrackandcode.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"inputGenerici/input.h"
+	"menu/menu.h"
+	"caricamento/caricamento.h"
+	"visua/visua.h"
+	"iscrizione/iscrizione.h"
+	"creaGara/creaGara.h"
+	"insRisultato/insRisultato.h"
+	"ordinamentoGenerale/ordinamento.h"
+	"visuaScore/visuaScore.h"
+	"contaGare/contaGare.h"
+	"contaPartecipanti/contaPartecipanti.h"
+	"sessoDonna/sessoDonna.h"
+	"sessoUomo/sessoUomo.h"
+	"MassimoMinimo/massimoMinimo.h"
+	"esistenzaGara/esistenzaGara.h"
+	"cercaMatricola/cercaMatricola.h"
+	"log/log.h"
+
+1620664854 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\menu\menu.h
+	<iostream>
+
+1621017597 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\caricamento\caricamento.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1620924114 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\visua\visua.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+
+1620993771 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\iscrizione\iscrizione.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621002609 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\creagara\creagara.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621005719 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\insrisultato\insrisultato.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621029551 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\ordinamentogenerale\ordinamento.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621020632 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\visuascore\visuascore.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	"../inputGenerici/input.h"
+
+1621008361 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\contagare\contagare.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621009922 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\contapartecipanti\contapartecipanti.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621012863 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\sessodonna\sessodonna.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1621013123 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\sessouomo\sessouomo.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1621015207 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\massimominimo\massimominimo.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621019834 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\esistenzagara\esistenzagara.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621020329 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\cercamatricola\cercamatricola.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	"../inputGenerici/input.h"
+
+1621025256 c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\log\log.h
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1621017597 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\sessodonna\sessodonna.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1621017597 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\sessouomo\sessouomo.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1621017597 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\visua\visua.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+
+1621020954 source:c:\users\max\desktop\track&code prandi-kaduku\progettotrackandcode\visuascore\visuascore.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<iomanip>
+	"../inputGenerici/input.h"
+
